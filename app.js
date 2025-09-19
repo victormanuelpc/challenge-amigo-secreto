@@ -43,6 +43,9 @@ function sortearAmigo() {
     const indiceAleatorio = Math.floor(Math.random() * amigos.length);
     const amigoSecreto = amigos[indiceAleatorio];
 
+    // Limpiar la lista en pantalla (pero NO borrar el array)
+    document.getElementById("listaAmigos").innerHTML = "";
+
     const resultado = document.getElementById("resultado");
     resultado.innerHTML = `<li>🎉 El amigo secreto es: <strong>${amigoSecreto}</strong></li>`;
 }
