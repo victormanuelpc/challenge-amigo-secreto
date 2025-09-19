@@ -12,6 +12,7 @@ Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicaci�
 ![Vista principal](./images/captura1.jpg)
 ![Agregando amigos](./images/captura2.jpg)
 ![Ejecutando el sorteo del amigo](./images/captura3.jpg)
+![Demo del sorteo](./images/demo.gif)
 
 ---
 
@@ -42,7 +43,7 @@ Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicaci�
 
 ---
 
-🤝 **Contribuciones**
+## 🤝 **Contribuciones**
 
 ¿Tienes ideas para mejorar el proyecto? ¡Eres bienvenido!
 1. Haz un fork del repositorio.
@@ -53,7 +54,7 @@ Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicaci�
 
 ---
 
-👨‍💻 **Autor**
+## 👨‍💻 **Autor**
 
 * Víctor Manuel
 * GitHub: victormanuelpc
