@@ -7,7 +7,7 @@ Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicaci�
 
 ## 🚀 **Demo**
 
-👉 [Prueba la aplicación aquí](https://github.com/victormanuelpc/challenge-amigo-secreto/)  
+👉 [Prueba la aplicación aquí](https://victormanuelpc.github.io/challenge-amigo-secreto/)  
 
 ![Vista principal](./images/captura1.jpg)
 ![Agregando amigos](./images/captura2.jpg)
