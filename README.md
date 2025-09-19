@@ -1,20 +1,22 @@
-# 🎁 Challenge Amigo Secreto
+# 🎁 **Challenge Amigo Secreto**
 
 Una aplicación divertida para organizar tu juego del **Amigo Secreto** de forma fácil, rápida y digital.  
 Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicación realice el sorteo por ti. 🎉
 
 ---
 
-## 🚀 Demo
+## 🚀 **Demo**
 
-👉 [Prueba la aplicación aquí](https://victormanuelpc.github.io/challenge-amigo-secreto/)  
+👉 [Prueba la aplicación aquí](https://victormanuelpc.github.com/challenge-amigo-secreto/)  
 
-![Vista principal](./images/captura1.png)  
+![Vista principal](./images/captura1.jpg)
+![Agregando amigos](./images/captura2.jpg)
+![Ejecutando el sorteo del amigo](./images/captura3.jpg)
 *(Agrega tus propias capturas de pantalla en la carpeta `/images`)*
 
 ---
 
-## ✨ Características
+## ✨ **Características**
 
 - Agregar nombres de amigos dinámicamente a una lista.
 - Visualizar todos los amigos registrados en tiempo real.
@@ -23,7 +25,7 @@ Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicaci�
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ **Tecnologías utilizadas**
 
 - **HTML5** para la estructura.  
 - **CSS3** para el estilo.  
@@ -31,7 +33,7 @@ Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicaci�
 
 ---
 
-## 📦 Instalación y uso
+## 📦 **Instalación y uso**
 
 1. Clona este repositorio:
    ```bash
@@ -41,7 +43,7 @@ Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicaci�
 
 ---
 
-🤝 Contribuciones
+🤝 **Contribuciones**
 
 ¿Tienes ideas para mejorar el proyecto? ¡Eres bienvenido!
 1. Haz un fork del repositorio.
@@ -52,7 +54,7 @@ Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicaci�
 
 ---
 
-👨‍💻 Autor
+👨‍💻 **Autor**
 
 * Víctor Manuel
 * GitHub: victormanuelpc
@@ -60,5 +62,5 @@ Escribe los nombres de tus amigos, agrégalos a la lista y deja que la aplicaci�
 
 ---
 
-⭐ Si te gustó este proyecto, no dudes en dejar una estrella en el repositorio.
+⭐ **Si te gustó este proyecto, no dudes en dejar una estrella en el repositorio.**
 
